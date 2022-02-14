@@ -3,8 +3,9 @@
 
 ## Example of usage :bird:
 
-Main.java
 ```java
+/* Main.java */
+
 import zer.mail.MailClient;
 
 public class Main
